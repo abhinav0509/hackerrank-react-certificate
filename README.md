@@ -1,3 +1,4 @@
+## My solution to hackerrank-react-certification problem
 # React: Slideshow App
 
 ## Environment 
